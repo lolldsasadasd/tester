@@ -1,6 +1,6 @@
 Settings = {
-    PointSlot = "Slot1"; -- Slot that will receive points
-    NamekSlot = "Slot3"; -- Namekian slot that gives points
+    PointSlot = "Slot3"; -- Slot that will receive points
+    NamekSlot = "Slot2"; -- Namekian slot that gives points
     WaitTimeSlotChange = 0.3; -- less = faster (Recommended 0.1 - 0.3) Wait time when talking to slot changer
     WaitTimeTalk = 0.250; -- (reccommended 0.1 - 0.3 ) Wait time when talking to level NPCs
     PersonLimit = 4; -- Person limit for auto rejoiner
